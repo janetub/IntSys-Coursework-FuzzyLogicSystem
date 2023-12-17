@@ -1,0 +1,12 @@
+IF ‘depth of dip’ is ‘large’ AND ‘duration of dip’ is ‘long’ AND ‘interval between dips’ is ‘medium’, THEN the object is ‘likely’ to be an exoplanet.
+IF ‘depth of dip’ is ‘small’ AND ‘duration of dip’ is ‘short’ AND ‘interval between dips’ is ‘long’, THEN the object is ‘unlikely’ to be an exoplanet.
+IF ‘depth of dip’ is ‘medium’ AND ‘duration of dip’ is ‘medium’ AND ‘interval between dips’ is ‘medium’, THEN the object is ‘likely’ to be an exoplanet.
+IF ‘depth of dip’ is ‘large’ AND ‘duration of dip’ is ‘short’ AND ‘interval between dips’ is ‘short’, THEN the object is ‘unlikely’ to be an exoplanet.
+IF ‘depth of dip’ is ‘medium’ AND ‘duration of dip’ is ‘medium’ AND ‘interval between dips’ is ‘short’, THEN the object is ‘likely’ to be an exoplanet.
+IF ‘depth of dip’ is ‘large’ AND ‘duration of dip’ is ‘medium’ AND ‘interval between dips’ is ‘medium’, THEN the object is ‘likely’ to be an exoplanet.
+IF ‘depth of dip’ is ‘small’ AND ‘duration of dip’ is ‘long’ AND ‘interval between dips’ is ‘short’, THEN the object is ‘unlikely’ to be an exoplanet.
+IF ‘depth of dip’ is ‘medium’ AND ‘duration of dip’ is ‘short’ AND ‘interval between dips’ is ‘long’, THEN the object is ‘unlikely’ to be an exoplanet.
+IF ‘depth of dip’ is ‘small’ AND ‘duration of dip’ is ‘medium’ AND ‘interval between dips’ is ‘short’, THEN the object is ‘unlikely’ to be an exoplanet.
+IF ‘depth of dip’ is ‘medium’ AND ‘duration of dip’ is ‘long’ AND ‘interval between dips’ is ‘medium’, THEN the object is ‘likely’ to be an exoplanet.
+IF ‘depth of dip’ is ‘large’ AND ‘duration of dip’ is ‘long’ AND ‘interval between dips’ is ‘long’, THEN the object is ‘likely’ to be an exoplanet.
+IF ‘depth of dip’ is ‘small’ AND ‘duration of dip’ is ‘short’ AND ‘interval between dips’ is ‘medium’, THEN the object is ‘unlikely’ to be an exoplanet.
